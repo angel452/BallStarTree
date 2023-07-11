@@ -7,6 +7,8 @@
   </a>
 </h1>
 
+> Antes de, el repositorio a GitHub se encuentra en el siguiente link: https://github.com/angel452/BallStarTree . Ahora si, continuemos :)
+
 # 💫 Instrucciones:
 - Una vez clonado el repositorio, o descargado la carpeta, ejecutar el comando
 ```bash
